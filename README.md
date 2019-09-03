@@ -1,3 +1,4 @@
+This project is a sample for reading and writing data into/from cassandra using alpakka connector.
 
 
 CREATE CASSANDRA KEYSPACE AND TABLES:
